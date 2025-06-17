@@ -9,3 +9,7 @@ a repo for my music
 - soundfonts:
 	- The Fluid Release 3 General-MIDI Soundfont - [https://GitHub.com/Jacalz/fluid-soundfont/blob/master/original-files/FluidR3_GM.sf2]()
 	- The Fluid Release 3 General-Sound Soundfont - [https://github.com/Jacalz/fluid-soundfont/blob/master/original-files/FluidR3_GS.sf2]()
+
+## Warning
+
+You may need to rewrie the file location for the project files to work
